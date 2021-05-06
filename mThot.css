@@ -1,0 +1,179 @@
+.no-italics{
+      font-style: normal;   
+
+}
+hr.solid {
+    border-top: 0.5px solid #bbb;
+    }
+h1{
+  font-family: 'Sorts Mill Goudy', serif;
+	color: #943126;
+	font-size: 40px;
+	padding-top: 0px;
+
+}
+
+
+p{
+  font-family: 'Sorts Mill Goudy', serif;
+	color: #454545 ;
+	font-size: 20px;
+	line-height: 26px;
+	width:42em;
+	text-align: center;
+	text-align: left;
+
+
+
+}
+h2{
+	font-family: 'Sorts Mill Goudy', serif;
+	color: #A93226;
+
+}
+
+
+#everything{
+		padding-left: 200px;
+		padding-top: 50px;
+
+
+}
+a{
+	color: #943126;
+	font-family: 'Sorts Mill Goudy', serif;
+  font-size: 18px;
+  line-height: 40px;
+  text-decoration: none;
+
+
+}
+#Title{
+	font-size: 65px;
+	animation: color-change 15s infinite;
+	padding-bottom: 0px;
+  font-style: italic;
+
+}
+a:hover{
+	color:#FD7B00;
+	text-decoration: underline;
+}
+
+.Header-links{
+
+}
+
+#github{
+	padding-right: 35px;
+}
+#CodePen{
+		padding-right: 35px;
+
+}
+#Contact{
+		padding-right: 35px;
+
+}
+
+@keyframes color-change {
+  0% {
+    color: #C0392B;
+  }
+  10% {
+    color:  #FF5733;
+  }
+  20% {
+    color: #FA0202;
+  }
+  30% {
+    color:  #8C0404;
+  }
+  40% {
+    color: #F19595;
+  }
+  50% {
+    color:  #FC6307;
+  }
+  60% {
+    color: #FD9D62;
+  }
+  70% {
+    color:  #CB3107;
+  }
+  80% {
+    color: #FD0000;
+  }
+  90% {
+    color:  #EDC8C4;
+  }
+  100% {
+    color: #FD0000;
+  }
+}
+
+#Contact{
+  padding-top: 0px;
+  color: #454545;
+  font-size: 17px;
+  font-family: 'Sorts Mill Goudy', serif;
+
+
+
+}
+html{
+   background-color: #fff;
+   max-width: 1000px;
+   margin: left;
+
+}
+hr.solid1{
+  border-top: 0.2px solid #CCD1D1;
+  width: 100%;
+  display: inline-block;
+
+
+}
+ 
+hr.solid2 {
+	border-top: 0.2px solid #CCD1D1;
+	width: 80%;
+ 	display: inline-block;
+
+
+}
+
+a.InParaLinks{
+	font-size: 20px;
+	text-decoration: none;
+}
+a.InParaLinks:hover{
+	text-decoration: underline;
+}
+
+@media screen and (max-width: 600px) {
+    p, hr, {
+        width: 30em;
+        padding-right: 50px;
+        float: none;
+        line-height: 2px;
+
+    }
+
+}
+@media screen and (max-width: 600px) {
+    h1 {
+       font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    li {
+               line-height: 2px;
+
+    }
+}
+
+
+
+

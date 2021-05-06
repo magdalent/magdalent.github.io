@@ -1,0 +1,51 @@
+iframe{
+	height: 400px;
+	width: 400px;
+
+}
+html{
+	background-color: #fff;
+	font-family: 'Sorts Mill Goudy', serif;
+
+}
+#Title{
+	text-align: center;
+	color: #943126;
+	font-size: 40px;
+
+}
+p{
+	margin-left: auto;
+    margin-right: auto;
+    width: 50em
+
+}
+.sketches{
+	text-align:center;
+  width:100%;
+}
+a{
+	text-decoration: none;
+	padding-left: 20px;
+	color: #943126;
+	padding-top:40px;
+}
+
+a:hover{
+	text-decoration:underline;
+
+}
+@media screen and (max-width: 600px) {
+    p {
+        width: 25em;
+        padding-left: 90px;
+        float: none;
+       }
+
+   }
+
+   @media screen and (max-width: 600px) {
+    a {
+        font-size: 15px;
+    }
+}
