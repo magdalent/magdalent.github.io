@@ -171,4 +171,8 @@ a.InParaLinks:hover{
     }
 
 }
-
+@media screen and (max-width: 600px) {
+    #Title{
+        font-size: 40px;
+    }
+}
