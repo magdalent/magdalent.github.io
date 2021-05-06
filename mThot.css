@@ -135,13 +135,6 @@ hr.solid1{
 
 }
  
-hr.solid2 {
-	border-top: 0.2px solid #CCD1D1;
-	width: 80%;
- 	display: inline-block;
-
-
-}
 
 a.InParaLinks{
 	font-size: 20px;
@@ -154,22 +147,28 @@ a.InParaLinks:hover{
 @media screen and (max-width: 600px) {
     p {
         width: 20em;
+
     }
 
 }
 @media screen and (max-width: 600px) {
     h1 {
-       font-size: 22px;
+       font-size: 30px;
     }
 }
 
 @media screen and (max-width: 600px) {
     li {
-               line-height: 2px;
+          line-height: 2px;
 
     }
 }
 
 
+@media screen and (max-width: 600px) {
+    a{
+        font-size: 12px;
+    }
 
+}
 
