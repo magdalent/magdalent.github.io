@@ -125,6 +125,8 @@ html{
    background-color: #fff;
    max-width: 1000px;
    margin: left;
+   overflow-y: hidden;
+
 
 }
 hr.solid1{
@@ -175,4 +177,10 @@ a.InParaLinks:hover{
     #Title{
         font-size: 40px;
     }
+}
+@media screen and (max-width: 600px) {
+    #html{
+        overflow: hidden;
+    }
+
 }
