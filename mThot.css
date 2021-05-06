@@ -152,12 +152,8 @@ a.InParaLinks:hover{
 }
 
 @media screen and (max-width: 600px) {
-    p, hr, {
-        width: 30em;
-        padding-right: 50px;
-        float: none;
-        line-height: 2px;
-
+    p {
+        width: 20em;
     }
 
 }
