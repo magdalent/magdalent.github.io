@@ -1,0 +1,126 @@
+p {
+		color: white;
+		font-size: 17px;
+		padding-left: 50px;
+		float:left;
+		font-family: 'Sorts Mill Goudy', serif;
+		line-height: 40px;
+
+
+}
+h3{
+		font-family: 'Sorts Mill Goudy', serif;
+		padding-left: 100px;
+		float:left;
+		font-size: 15px;
+
+}
+
+h1{
+	padding-left: 100px;
+	font-family: 'Sorts Mill Goudy', serif;
+	color: #C70039;
+	font-style: italic;
+	animation: colours 10s infinite;
+
+}
+html{
+	background-color: #fff;
+	padding-top: 30px;
+}
+a{
+	color: #454545 ;
+	font-size: 18px;
+	padding-left: 50px;
+	text-align: center;
+	font-family: 'Sorts Mill Goudy', serif;
+	text-decoration: none;
+
+
+
+}
+
+a:hover{
+	color: #C70039;
+	text-decoration: underline;
+
+}
+footer{
+	color: black;
+	text-align:justify;
+	width:60em;
+	padding-left: 100px;
+	font-size: 14px;
+	font-family: 'Sorts Mill Goudy', serif;
+
+
+
+
+}
+img{
+	height:150px;
+	width: 150px;
+	display: block;
+	padding-left: 100px;
+	float: left;
+	padding-right: 20px;
+
+
+
+}
+@keyframes colours {
+  0% {
+    color: #C0392B;
+  }
+  10% {
+    color:  #FF5733;
+  }
+  20% {
+    color: #FA0202;
+  }
+  30% {
+    color:  #8C0404;
+  }
+  40% {
+    color: #F19595;
+  }
+  50% {
+    color:  #FC6307;
+  }
+  60% {
+    color: #FD9D62;
+  }
+  70% {
+    color:  #CB3107;
+  }
+  80% {
+    color: #FD0000;
+  }
+  90% {
+    color:  #EDC8C4;
+  }
+  100% {
+    color: #FD0000;
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+    p,h3 {
+        width: 35em;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    img{
+        width: 0px;
+        height: 0px;
+        display: inline;
+		float:left;
+    }
+}
+@media screen and (max-width: 600px) {
+    h1{
+        font-size: 2em;
+    }
+}

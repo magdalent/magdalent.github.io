@@ -1,0 +1,111 @@
+html{
+	background-color: #fff;
+	font-family: 'Sorts Mill Goudy', serif;
+}
+
+#Circle{
+	height: 200px;
+	width: 200px;
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	position: relative;
+  	animation-name: circe;
+  	animation-duration: 10s;
+  	animation-direction: alternate;
+  	transition-duration: 3s;
+
+
+
+}
+h3{
+	color: black;
+	text-align: center;
+	font-size: 40px;
+	font-style: italic;
+	color: #943126;
+}
+a{
+	color: black;
+	text-indent: none;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+#img1{
+	height: 360px;
+	width: 340px;
+
+}
+#img2{
+	height: 360px;
+	width: 340px;
+}
+a:hover{
+	text-decoration: underline;
+	color: #943126;
+}
+#imgs{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  }
+
+
+@keyframes circe {
+  0% {
+
+  	width: 0px;
+  	height:0px;
+  }
+  10%{
+  	width: 0px;
+  	height:0px;
+
+  }
+  20%{
+  	width: 200px;
+  	height:200px;
+  }
+  30%{
+  	width: 100px;
+  	height:100px;
+  }
+  40%{
+  	width: 200px;
+  	height:200px;
+
+  }
+  50%{
+  	width: 100px;
+  	height:100px;
+  }
+  60%{
+  	width: 200px;
+  	height:200px;
+
+  }
+  70%{
+  	width: 100px;
+  	height:100px;
+
+  }
+  80%{
+  	width: 200px;
+  	height:200px;
+
+  }
+  90%{
+  	width: 0px;
+  	height:0px;
+
+  }
+  100%{
+  	width: 200px;
+  	height:200px;
+
+  }
+}
+hr.solid {
+  	border-top: 0.5px solid #bbb;
+}
