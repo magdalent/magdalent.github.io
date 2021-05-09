@@ -1,67 +1,99 @@
-<!DOCTYPE html>
-<html>
+   <!DOCTYPE html>
+   <html>
    <head>
-      <title>Cartography</title>
-      <link rel="stylesheet" type="text/css" href="GIS.css">
+       <title>Cartography</title>
+      <!-- Fonts-------------------------------------------------------------------------------------->
       <link rel="preconnect" href="https://fonts.gstatic.com">
-      <link href="https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+         
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+      <!------------------------------------------------------------------------------------------------->
 
-   <body>
-      <head></head>
-      <header><a href="index.html">Magdalen Thot></a></header>
-      <body>
-      
-         <h1 style="font-size: 4vw";>Cartography</h1>
-         <p style="font-size: 1.5vw"id = "caption">Below are some maps I have made, more to come...</p>
-         <hr class="underline">
+      <!-- CSS---->
+      <link rel="stylesheet" type="text/css" href="GIS.css">
+   </head>
+      <!--------------------------------------------Start of Body/Content---------------------------------->
 
-         <!-- "All content for the 'GREENWAYS DIV"-------------------------------------------------------------------------->
-         <div class="Everything">
+<body>
+        <header><button onclick="location.href='index.html'" type="button">Home</button></header>
+
+      </div>
+
+      <!-- Title and Caption of title--->
+      <h1>Cartography</h1>
+      <p id = "caption">Below are some maps I have made, the images can be clicked on the be seen in more detail. More to come...</p>
+
+    <!-- "All content for the 'PRINCE GEORGE DIV"-------------------------------------------------------------------------->
          <div class="gallery">
-            <a target = "_blank" href="pgeorge.png">
-            <img id = "PrinceGeorgeMapImage" src="pgeorge.png" alt="princeGeorge" width="600" height="500">
-            </a>
-            <div class="desc">
-               <h3>Prince George Hiking Trails</h3>
-               <p id = "PrinceGeorgeMapBio">This interactive map shows all hiking trails in Prince George British Columbia it was made with ArcGis and Qgis. This map was made in my geography 222 class<br>
-               <a target = "_blank" class = "interactive-link" href="https://arcg.is/0HiDjj"> Interactive Map is here &#127827;</a>
-               </p>
+                <a target="_blank" href="pgeorge.png">
+                    <img id="PrinceGeorgeMapImage" src="pgeorge.png" alt="princeGeorge" width="600" height="500" />
+                </a>
+
+                <div class="Section">
+                    <p id="PrinceGeorgeMapBio">
+                        <u><strong>Prince George Hiking Trails, 2021:</strong></u><br/>
+                        This interactive map shows all hiking trails in Prince George British Columbia it was made with ArcGis and Qgis. This map was made in my geography 222 class
+                        <a target="_blank" class="interactive-link" href="https://arcg.is/0HiDjj"> Interactive Map is here</a>
+                    </p>
+                </div>
             </div>
-         </div>
-         <!-- "All content for the 'GREENWAYS DIV"-------------------------------------------------------------------------------------------->
+      <!-- All content for the Vancouver Green Ways Card------------------------------------------------------------------->
+
          <div class="gallery">
-            <a target="_blank" href="GREENways.png">
-            <img id = "GreenWaysIMG" src="GREENways.png" alt="GREENways" width="600" height="400">
-            </a>
-            <div class="desc"><strong>Vancouver Green Ways, Shelters & Government Housing</strong><br>The purpose of this Vancouver Green-Ways, Homeless Shelters and Government housing map is to see if there are more or less green ways near homeless shelters and government owned housing buildings. That is, the map is aiming to see if there are more or less greenways available in areas surrounding low-income housing and homeless shelters versus other areas in the city. All data layers were downloaded from the Vancouver Open Data Portal website. The interactive map can be found  <a target="_blank" href="https://arcg.is/bmDOS">here &#127827;</a>
-               <br>
-            </div>
+             <a target="_blank" href="GREENways.png">
+                 <img id="GreenWaysIMG" src="GREENways.png" alt="GREENways" width="600" height="400"/>
+             </a>
+
+            <div class="Section">
+                 <p id="Vancouver-Green-Ways-BIO">
+                     <u><strong>Vancouver Green Ways, Shelters & Government Housing, 2021:</strong></u><br/>
+                     The purpose of this map is to see if there are more or less green ways near homeless shelters and government owned housing buildings. That is, the map is aiming to see if there are more or less greenways available in areas surrounding low-income housing and homeless shelters versus other areas in the city. All data layers were downloaded from the Vancouver Open Data Portal website. The
+                     interactive map can be found <a target="_blank" href="https://arcg.is/bmDOS">here.</a>
+                     </p>
+                 <br/>
+             </div>
          </div>
-         <!-- "All content for the 'GREENWAYS  DIV"------------------------------------------------------------------------------------------->
+      <!-- All content for the Victoria Outdoor Fitness Locations Card----------------------------------------------------------->
+
          <div class="gallery">
-            <a target="_blank" href="Map1.png">
-            
-            <img id = "VictoriaOutdoorImage" src="Map1.png" alt="Victoria Outdoor" width="600" height="400">
-            </a>
-            <div class="desc">
-               <p id = "VictoriaOutdoorBio"><strong>Victoria Outdoor Fitness Locations</strong><br>This map shows fitness locations in the Victoria, B.C. area it was made for my georgraphy 222 course the tool used are QGIS. It involved multiple layers and data collection</p>
+                <a target="_blank" href="Map1.png">
+                    <img id="VictoriaOutdoorImage" src="Map1.png" alt="Victoria Outdoor" width="600" height="400" />
+                </a>
+               
+                <div class="Section">
+                    <p id="VictoriaOutdoorBio">
+                        <u><strong>Victoria Outdoor Fitness Locations, 2021:</strong></u><br />
+                        This map shows fitness locations in the Victoria, B.C. area it was made for my georgraphy 222 course the tool used are QGIS. It involved multiple layers and data collection.
+                    </p>
+                </div>
             </div>
-         </div>
-         <!-- "All content for the 'GREENWAYS DIV"-------------------------------------------------------------------------->
+
+      <!-- All content for the 'Transit Deserts Card----------------------------------------------------------------------------->
          <div class="gallery">
-            <a target="_blank" href="TransitDes1.png">
-            <img id = "AnalyzingTransitDesertsImg" src="TransitDes1.png" alt="Transit Deserts" width="600" height="400">
-            </a>
-            <div class="desc">
-               <p id = "AnalyzingTransitDesertsBio">Analyzing Transit Deserts in Victoria<br>
-                  This map highlights the most vunrable tranis desert in vicotra BC, a trasnit desert is an are with a defect of public tranist and higher risk populations. In this map those populatuons being low income and elderly people over the age of 65. This Map Was Made With QGIS
-               </p>
-            </div>
-           </div>
-            <!-- "All content for the 'GREENWAYS DIV"------------------------------------------------------------------------
-               end-->
+                <a target="_blank" href="TransitDes1.png">
+                    <img id="AnalyzingTransitDesertsImg" src="TransitDes1.png" alt="Transit Deserts" width="600" height="400" />
+                </a>
+                <div class="Section">
+                    <p id="AnalyzingTransitDesertsBio">
+                        <u><strong>Analyzing Transit Deserts in Victoria, 2021:</strong></u><br/>
+                        This map highlights the most vunrable tranis desert in vicotra BC, a trasnit desert is an are with a defect of public tranist and higher risk populations. In this map those populatuons being low income and elderly people overthe age of 65. This Map Was Made With QGIS.
+                    </p>
+                </div>
          </div>
-         </div>
-         </div>
-   </body>
-</html>
+        <!-- All content for the Remote Sensing Card------------------------------------------------------------------------------>
+
+          <div class="gallery">
+              <a target="_blank" href="Remote-Sensing.png">
+                  <img id="Remote-Sensing" src="Remote-Sensing.png" alt="RemoteSensing" width="600" height="500" />
+              </a>
+                <div class="Section">
+                  <p id="Remote-Sensing-bio">
+                      <u><strong>South Vancover Island Materials, 2020:</strong></u><br/>
+                      This map was made in my remote sensing class. The goal was less about aesthetics; and more about making a map accurately portraying what type of materials covered parts of south Vancouver Island and northern Washington state, it
+                      was made in Google Earth Engine.
+                   </p>
+              </div>
+          </div>
+      </body>
+  </html>
