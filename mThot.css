@@ -167,6 +167,7 @@ a:hover {
 
 html {
    background-color: #F8F9FB;
+   overflow-x: hidden;
 
    /*---iPhones-------------------------------------*/
 }
@@ -233,8 +234,9 @@ html {
 
 @media screen and (max-width: 600px) {
    button {
-      padding: 2px 2px;
-      font-size: 10px;
-      margin: 10px 5px;
+      padding: 1px 1px;
+      font-size: 6px;
+      margin: 2px 2px;
+
    }
 }
