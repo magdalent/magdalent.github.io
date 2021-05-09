@@ -200,13 +200,13 @@ html {
 
 @media screen and (max-width: 600px) {
    h1 {
-      font-size: 20px;
+      font-size: 15px;
    }
 }
 
 @media screen and (max-width: 600px) {
    #Title {
-      font-size: 25px;
+      font-size: 23px;
       width: 40em;
    }
 }
@@ -214,7 +214,7 @@ html {
 @media screen and (max-width: 600px) {
    a {
       width: 150em;
-      font-size: 10px;
+      font-size: 6px;
       line-height: 15px;
       display: inline;
       margin-right: 15px;
