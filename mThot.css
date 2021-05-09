@@ -1,185 +1,240 @@
-.no-italics{
-      font-style: normal;   
-
-}
-hr.solid {
-    border-top: 0.5px solid #bbb;
-    }
-h1{
-  font-family: 'Sorts Mill Goudy', serif;
-	color: #943126;
-	font-size: 40px;
-	padding-top: 0px;
-
+div.container {
+   position: relative;
+   margin: auto;
+   width: 50%;
+   padding: 15px;
 }
 
-
-p{
-  font-family: 'Sorts Mill Goudy', serif;
-	color: #454545 ;
-	font-size: 20px;
-	line-height: 26px;
-	width:42em;
-	text-align: center;
-	text-align: left;
-
-
-
-}
-h2{
-	font-family: 'Sorts Mill Goudy', serif;
-	color: #A93226;
-
+#Header-Links {
+   margin-right: auto;
 }
 
-
-#everything{
-		padding-left: 200px;
-		padding-top: 50px;
-
-
-}
-a{
-	color: #943126;
-	font-family: 'Sorts Mill Goudy', serif;
-  font-size: 18px;
-  line-height: 40px;
-  text-decoration: none;
-
-
-}
-#Title{
-	font-size: 90px;
-	animation: color-change 15s infinite;
-	padding-bottom: 0px;
-  font-style: italic;
-
-}
-a:hover{
-	color:#FD7B00;
-	text-decoration: underline;
+button {
+   background-color: #5499C7;
+   border: none;
+   padding: 5px 5px;
+   text-align: center;
+   display: inline-block;
+   margin: 2px 3px;
+   box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   color: white;
+   margin-right: 30px;
+   font-size: 18px;
+   border-radius: 4%;
 }
 
-.Header-links{
-
+button:hover {
+   background-color: white;
+   color: #5499C7;
 }
 
-#github{
-	padding-right: 35px;
+#Quicklinks {
+   text-align: center;
 }
-#CodePen{
-		padding-right: 35px;
 
+i {
+   font-family: 'Roboto', sans-serif;
 }
-#Contact{
-		padding-right: 35px;
 
+#GISlink {
+   color: #2874A6
+}
+
+#ProjectsLink {
+   color: #2874A6;
+}
+
+#ArtLink {
+   color: #2874A6;
+}
+
+#CreativeLink {
+   color: #2874A6;
+}
+
+#D3LINK {
+   color: #2874A6;
+}
+
+#GISlink:hover {
+   color: #AED6F1;
+   text-decoration: underline;
+}
+
+#ProjectsLink:hover {
+   color: #AED6F1;
+   text-decoration: underline;
+}
+
+#ArtLink:hover {
+   color: #AED6F1;
+   text-decoration: underline;
+}
+
+#CreativeLink:hover {
+   color: #AED6F1;
+   text-decoration: underline;
+}
+
+#D3LINK:hover {
+   color: #AED6F1;
+   text-decoration: underline;
+}
+
+h1 {
+   font-family: 'Roboto', sans-serif;
+   color: #5499C7;
+   font-size: 30px;
+}
+
+p {
+   font-family: 'Roboto', sans-serif;
+   color: #2471A3;
+   font-size: 18px;
+   line-height: 38px;
+   width: 40em;
+   font-size: bold;
+}
+
+a {
+   font-family: 'Roboto', sans-serif;
+   font-size: 18px;
+   line-height: 40px;
+   display: inline;
+   margin-right: 30px;
+   color: #2980B9;
+   text-decoration: none;
+}
+
+#Title {
+   font-size: 60px;
+   animation: color-change 15s infinite;
+   font-weight: 1px;
+   font-family: 'Roboto', sans-serif;
+}
+
+a:hover {
+   color: #AED6F1;
+}
+
+#github {
+   padding-right: 35px;
+}
+
+#CodePen {
+   padding-right: 35px;
+}
+
+#Contact {
+   padding-right: 35px;
 }
 
 @keyframes color-change {
-  0% {
-    color: #C0392B;
-  }
-  10% {
-    color:  #FF5733;
-  }
-  20% {
-    color: #FA0202;
-  }
-  30% {
-    color:  #8C0404;
-  }
-  40% {
-    color: #F19595;
-  }
-  50% {
-    color:  #FC6307;
-  }
-  60% {
-    color: #FD9D62;
-  }
-  70% {
-    color:  #CB3107;
-  }
-  80% {
-    color: #FD0000;
-  }
-  90% {
-    color:  #EDC8C4;
-  }
-  100% {
-    color: #FD0000;
-  }
+   0% {
+      color: #21618C;
+   }
+   10% {
+      color: #5DADE2;
+   }
+   20% {
+      color: #A9CCE3;
+   }
+   30% {
+      color: #3575F4;
+   }
+   40% {
+      color: #92B0EC;
+   }
+   50% {
+      color: #B8DBFF;
+   }
+   60% {
+      color: #C0D1F3;
+   }
+   70% {
+      color: #002CB4;
+   }
+   80% {
+      color: #144DFF;
+   }
+   90% {
+      color: #85C8FF;
+   }
+   100% {
+      color: #CFE9FF;
+   }
 }
 
-#Contact{
-  padding-top: 0px;
-  color: #454545;
-  font-size: 17px;
-  font-family: 'Sorts Mill Goudy', serif;
-
-
-
+html {
+   background-color: #F8F9FB;
+   overflow: hidden;
+   /*---iPhones-------------------------------------*/
 }
-html{
-   background-color: #fff;
-   max-width: 1000px;
-   margin: left;
 
-
-}
-hr.solid1{
-  border-top: 0.2px solid #CCD1D1;
-  width: 100%;
-  display: inline-block;
-
-
-}
- 
-
-a.InParaLinks{
-	font-size: 20px;
-	text-decoration: none;
-}
-a.InParaLinks:hover{
-	text-decoration: underline;
+@media screen and (max-width: 667px) {
+   #Header-Links {
+      display: auto;
+      width: 40em;
+   }
 }
 
 @media screen and (max-width: 600px) {
-    p {
-        width: 20em;
-
-    }
-
-}
-@media screen and (max-width: 600px) {
-    h1 {
-       font-size: 30px;
-    }
+   p {
+      width: 24em;
+      font-size: 10px;
+      line-height: 25px;
+   }
 }
 
 @media screen and (max-width: 600px) {
-    li {
-          line-height: 2px;
-
-    }
+   #Quicklinks {
+      display: inline-block;
+   }
 }
 
-
 @media screen and (max-width: 600px) {
-    a{
-        font-size: 12px;
-    }
-
+   html {
+      overflow: hidden;
+   }
 }
-@media screen and (max-width: 600px) {
-    #Title{
-        font-size: 40px;
-    }
-}
-@media screen and (max-width: 600px) {
-    #html{
-        overflow: hidden;
-    }
 
+@media screen and (max-width: 600px) {
+   h1 {
+      font-size: 20px;
+   }
+}
+
+@media screen and (max-width: 600px) {
+   #Title {
+      font-size: 25px;
+      width: 40em;
+   }
+}
+
+@media screen and (max-width: 600px) {
+   a {
+      width: 150em;
+      font-size: 10px;
+      line-height: 15px;
+      display: inline;
+      margin-right: 15px;
+   }
+}
+
+@media screen and (max-width: 600px) {
+   div.container {
+      overflow: hidden;
+      position: relative;
+      margin: -20px;
+      width: 50%;
+      padding: 80px;
+   }
+}
+
+@media screen and (max-width: 600px) {
+   button {
+      padding: 2px 2px;
+      font-size: 10px;
+      margin: 10px 5px;
+   }
 }

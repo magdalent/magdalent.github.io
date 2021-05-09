@@ -1,37 +1,101 @@
-div.gallery {
-  margin: 40px;
+.gallery {
+  margin: 20px;
   float: left;
-  width: 380px;
-  height: 500px;
+  width: 400px;
+  height: 460px;
   box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-border-radius: 1%;
+  border-radius: 1%;
 }
 
 div.gallery:hover {
-  opacity: 0.5;
+      opacity: 0.5;
 }
 
 div.gallery img {
-  width: 100%;
-  height: auto;
+    width: 100%;
+    height: auto;
 }
 
 div.desc {
-  padding: 10px;
-  text-align: center;
+    padding: 10px;
+    text-align: center;
+    float: right;
 }
+
 html{
-	font-family: arial;
+	 font-family: arial;
 }
-a{ text-decoration: none;
-	color: #943126;
+button {
+   background-color: #5499C7;
+   border: none;
+   padding: 5px 5px;
+   text-align: center;
+   display: inline-block;
+   margin: 2px 3px;
+   box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   color: white;
+   margin-right: 30px;
+   font-size: 18px;
+   border-radius: 4%;
+}
+
+button:hover {
+   background-color: white;
+   color: #5499C7;
+}
+
+a{ 
+  text-decoration: none;
+  color: #21618C;
  }
+
  html{
- 	  font-family: 'Sorts Mill Goudy', serif;
-
+    background-color:#F8F9FB;
+    font-family: 'Roboto', sans-serif;
  }
- a:hover{
- 	text-decoration: underline;
- 	color: blue;
 
- }
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #5499C7;
+    font-size: 50px;
+}
+
+#Genrative-Art-Bio{
+      font-family: 'Roboto', sans-serif;
+      text-align: left;
+      color: #013E66;
+}
+
+#Personal-Website-Bio{
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    color: #013E66;
+}
+
+#CSS-ANIMATION-BIO{
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    color: #013E66;
+}
+
+#HomeButton{
+  color: white;
+}
+
+a:hover{
+  color: blue;
+}
+
+#HomeButton:hover{
+  color: blue;
+}
+
+#Personal-Website-img{
+  height: 300px;
+}
+
+#Genrative-Art-pic{
+  height: 300px;
+}
+
