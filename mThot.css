@@ -84,7 +84,7 @@ i {
 h1 {
    font-family: 'Roboto', sans-serif;
    color: #5499C7;
-   font-size: 30px;
+   font-size: 25px;
 }
 
 p {
@@ -167,7 +167,8 @@ a:hover {
 
 html {
    background-color: #F8F9FB;
-   overflow: hidden;
+   overflow-x: hidden;
+
    /*---iPhones-------------------------------------*/
 }
 
