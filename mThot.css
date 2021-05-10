@@ -234,9 +234,11 @@ html {
 
 @media screen and (max-width: 600px) {
    button {
-      padding: 1px 1px;
-      font-size: 6px;
-      margin: 2px 2px;
+      padding: 3px 3px;
+      font-size: 9px;
+      margin: 10px 10px;
+      display:flex;
+
 
    }
 }
