@@ -1,0 +1,14 @@
+
+@mixin repsonsive($resized) {
+    @if ($resized == resize-screen-home){
+        @media(max-width: 900px){
+            @content;
+        }
+    }
+    @if ($resized == screen-medium){
+        @media(max-width: 800px){
+            @content;
+        }
+    } 
+    
+}
