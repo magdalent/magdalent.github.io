@@ -1,0 +1,84 @@
+.projectsss{
+   
+    width: 100vw;
+    background-color: rgb(65, 65, 65);
+    margin-top: 3rem;
+    padding-top: 0.5rem;
+    &__info{
+      margin-right: 4rem;
+      margin-left: 4rem;
+    &-img{
+      width: 100%;
+      height: auto;
+      border-radius: 15px;
+      display: grid;
+    }
+        &--code{
+          display: inline-block;
+          padding: 1rem 1.3rem;
+          margin-right: 1rem;
+          background-color: rgb(255, 255, 255);
+          box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset;
+          background-color: #FCFCFD;
+          border-radius: 4px;
+          text-transform: uppercase;
+          text-decoration: none;
+          color: gray;
+
+          &:focus {
+            box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+          }
+          
+         &:hover {
+            box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+            transform: translateY(-2px);
+          }
+          
+          &:active {
+            box-shadow: #D6D6E7 0 3px 7px inset;
+            transform: translateY(2px);
+          }
+
+        }
+        &--live{
+            display: inline-block;
+            padding: 1rem 1.3rem;
+            margin-bottom: 1.5rem;
+            background-color: rgb(255, 255, 255);
+            box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset;
+            background-color: #FCFCFD;
+            border-radius: 4px;
+            text-transform: uppercase;
+            text-decoration: none;
+            color: gray;
+            margin-right: 1rem;
+          &:focus {
+            box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+          }
+          
+         &:hover {
+            box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+            transform: translateY(-2px);
+          }
+          
+          &:active {
+            box-shadow: #D6D6E7 0 3px 7px inset;
+            transform: translateY(2px);
+          }
+        }
+        &--title{
+            margin-top: 2rem;
+            margin-bottom: 1.2rem;
+            font-size: 1.3rem;
+            color: rgb(219, 219, 219);
+              img{
+                width: auto;
+                height: 5rem;
+              }
+        }
+        
+        
+    }
+}
+
+

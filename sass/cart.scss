@@ -1,0 +1,12 @@
+.maps{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px,1fr));
+    margin: 2rem;
+    img{
+        place-items: center;
+        width: 80%;
+        margin: 2rem;
+        height: auto;
+        border: 5px solid rgb(167, 167, 167);
+    }
+}
