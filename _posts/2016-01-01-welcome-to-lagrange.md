@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Welcome!"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
-
+Hi Im Magdalen! I’m a Geography and Computer Science (Geomatics) student at the University of Victoria with interests in surveying, geospatial analysis, mapping technologies, and art. I enjoy working with spatial data, GIS, and field-based surveying methods, while also exploring creative ways to visualize and communicate geographic information. You can view some of the projecst ive workd on below
 ## Getting Started
 
 [Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
