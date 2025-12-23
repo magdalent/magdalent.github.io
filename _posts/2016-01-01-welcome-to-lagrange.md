@@ -10,8 +10,6 @@ I’m a Geography and Computer Science (Geomatics) student at the University of 
 
 ## Past Experience
 
-Here’s a clean, **README-friendly Markdown format** you can drop straight into a GitHub repo. It’s structured, scannable, and professional.
-
 ---
 
 ### **Coordinator, Community Mapping (GIS)**
