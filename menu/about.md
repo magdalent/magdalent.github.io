@@ -4,7 +4,7 @@ title: About Me
 permalink: /about
 ---
 
-I'm a Geography and Computer Science (Geomatics) student at the University of Victoria, with interests in surveying, geospatial analysis, mapping technologies, and art
+#### I'm a Geography and Computer Science (Geomatics) student at the University of Victoria, with interests in surveying, geospatial analysis, mapping technologies, and art
 ---
 
 ## Previous Experience
@@ -63,3 +63,4 @@ I'm a Geography and Computer Science (Geomatics) student at the University of Vi
 * Served on the **Co-op Advisory Board**, organizing events and contributing to improvements in the co-op program.
 
 
+---
