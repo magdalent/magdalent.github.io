@@ -10,7 +10,9 @@ permalink: /about
 
 ### **Coordinator, Community Mapping (GIS) @ Canadian Red Cross**
 
-**Victoria, BC | January 2025 – August 2025**
+**January 2025 – August 2025**
+
+**Victoria, BC**
 
 * Designed and delivered GIS training materials for diverse audiences using **Figma**.
 * Supported GIS response efforts during the **2025 Alberta and Manitoba wildfires**, producing detailed maps and community profiles in **ArcGIS Pro** to enhance situational awareness for staff and volunteers.
@@ -21,7 +23,9 @@ permalink: /about
 
 ### **Historic Computing Assistant @ University of Victoria Libraries**
 
-**Victoria, BC | October 2024 – January 2025**
+**October 2024 – January 2025**
+
+**Victoria, BC**
 
 * Documented historic computers for archival preservation and research use.
 * Created an interactive tutorial for the **Microstar graphics program** using **HTML, JavaScript, and CSS**.
@@ -30,7 +34,9 @@ permalink: /about
 
 ### **GIS Research Assistant @ (Surreal) Simulating Resilient Landscapes Lab, University of Victoria**
 
-**Victoria, BC | November 2023 – January 2024**
+**November 2023 – January 2024**
+
+**Victoria, BC**
 
 * Collaborated with the Surreal Lab to identify and flag errors in **LiDAR datasets** for a **Capital Regional District** project.
 * Performed spatial data quality control and analysis using **ArcGIS Pro**.
@@ -39,7 +45,9 @@ permalink: /about
 
 ### **Assistant GIS Analyst (Co-op) @ Fisheries and Oceans Canada**
 
-**Sidney, BC | January 2023 – August 2023**
+**January 2023 – August 2023**
+
+**Sidney, BC**
 
 * Contributed to the **Salish Sea Initiative Interactive Map**, supporting Indigenous Nations’ access to environmental and spatial data.
 * Analyzed and prepared spatial datasets using **ArcGIS, QGIS, Figma, and R** for publication.
@@ -49,7 +57,9 @@ permalink: /about
 
 ### **Analyst (Co-op) @ British Columbia Environmental Assessment Office**
 
-**Victoria, BC | September 2021 – January 2022**
+**September 2021 – January 2022**
+
+**Sidney, BC**
 
 * Supported the Oil and Gas team in correspondence with Indigenous Nations and industry partners.
 * Maintained and updated the Environmental Assessment Office’s **EPIC** website.
