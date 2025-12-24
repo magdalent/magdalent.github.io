@@ -21,8 +21,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title: 'Magdalen Thot'
-description: 'Geomtics Student'
-hide_post_date: true
+description: 'Geomatics Student'
+hi: true
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
