@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Projects 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼
+title: Projects 𓆝 𓆟 𓆞 𓆝 𓆟
 permalink: /writing
 ---
