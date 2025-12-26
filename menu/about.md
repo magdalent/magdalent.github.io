@@ -9,6 +9,7 @@ permalink: /about
 ### University of Victoria (December 2025)
 
 [BSc Geography and Computer Science (Geomatics)](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/geography-and-computer-science.php)
+
 ---
 ## Previous Experience
 ### **Coordinator, Community Mapping (GIS) @ Canadian Red Cross**
