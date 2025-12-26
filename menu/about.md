@@ -3,12 +3,12 @@ layout: page
 title: About Me 𓆉𓆝 𓆟 𓆞 𓆝
 permalink: /about
 ---
-#### I'm a Geography and Computer Science (Geomatics) student at the University of Victoria, with interests in surveying, geospatial analysis, mapping technologies, and art
+#### I'm a Geography and Computer Science (Geomatics) student at the University of Victoria, with interests in surveying, geospatial analysis, mapping technologies, and art.
 ---
 ## Education
 ### University of Victoria (December 2025)
 
-[BSc Geography and Computer Science (Geomatics)](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/geography-and-computer-science.php)
+* [BSc Geography and Computer Science (Geomatics)](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/geography-and-computer-science.php)
 
 ---
 ## Previous Experience
