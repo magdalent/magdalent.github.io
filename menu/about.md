@@ -6,6 +6,11 @@ permalink: /about
 #### I'm a Geography and Computer Science (Geomatics) student at the University of Victoria, with interests in surveying, geospatial analysis, mapping technologies, and art.
 ---
 ## Education
+
+### University of New Brunswick (January 2026 - )
+
+* BScE Geomatics Engineering
+
 ### University of Victoria (December 2025)
 
 * [BSc Geography and Computer Science (Geomatics)](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/geography-and-computer-science.php)
