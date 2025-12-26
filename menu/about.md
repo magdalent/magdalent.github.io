@@ -1,10 +1,14 @@
 ---
 layout: page
-title: About Me 𓆉𓆝 𓆟 𓆞 𓆝 𓆟𓇼
+title: About Me 𓆉𓆝 𓆟 𓆞 𓆝
 permalink: /about
 ---
 #### I'm a Geography and Computer Science (Geomatics) student at the University of Victoria, with interests in surveying, geospatial analysis, mapping technologies, and art
----
+
+## Education
+### University of Victoria (December 2025)
+
+[BSc Geography and Computer Science (Geomatics)](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/geography-and-computer-science.php)
 
 ## Previous Experience
 
@@ -19,7 +23,6 @@ permalink: /about
 * Developed interactive maps and dashboards using **ArcGIS Pro** and **ArcGIS StoryMaps**, integrating the **Social Vulnerability Index (SVI)** to visualize at-risk communities for organizational presentations.
 * Redeveloped mapper databases using **Excel** and database design principles, improving data organization, accuracy, and accessibility.
 
----
 
 ### **Historic Computing Assistant @ University of Victoria Libraries**
 
@@ -30,7 +33,6 @@ permalink: /about
 * Documented historic computers for archival preservation and research use.
 * Created an interactive tutorial for the **Microstar graphics program** using **HTML, JavaScript, and CSS**.
 
----
 
 ### **GIS Research Assistant @ (Surreal) Simulating Resilient Landscapes Lab, University of Victoria**
 
@@ -41,7 +43,6 @@ permalink: /about
 * Collaborated with the Surreal Lab to identify and flag errors in **LiDAR datasets** for a **Capital Regional District** project.
 * Performed spatial data quality control and analysis using **ArcGIS Pro**.
 
----
 
 ### **Assistant GIS Analyst (Co-op) @ Fisheries and Oceans Canada**
 
@@ -53,7 +54,6 @@ permalink: /about
 * Analyzed and prepared spatial datasets using **ArcGIS, QGIS, Figma, and R** for publication.
 * Authored clear, accessible information panels explaining mapped data and methodologies.
 
----
 
 ### **Analyst (Co-op) @ British Columbia Environmental Assessment Office**
 
@@ -66,4 +66,3 @@ permalink: /about
 * Developed an **Excel-based project tracking database** for Compliance & Enforcement environmental assessment work.
 * Served on the **Co-op Advisory Board**, organizing events and contributing to program improvements.
 
----
