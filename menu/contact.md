@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Contact 𓅰 𓅬 𓅭 𓅮 𓅯
 permalink: /contact
 image: sunset.png
