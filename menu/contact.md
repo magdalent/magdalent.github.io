@@ -2,6 +2,8 @@
 layout: page
 title: Contact 𓅰 𓅬 𓅭 𓅮 𓅯
 permalink: /contact
+image: sunset.png
+
 ---
 My main contact channels are:
 * Email: magdalenthot@hotmail.com
