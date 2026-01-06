@@ -39,14 +39,14 @@
 }
 
 .pagination-button {
-  color: $light-gray-color;
+  color: #035DCC;
   border: 1px solid $pagination-button-color;
   padding: 10px 40px;
   display: inline-block;
   font-size: 16px;
   font-weight: bold;
   border-radius: 25px;
-background-color: coral;
+  background-color: #A4CDFF;
 }
 
 .pagination-active {
@@ -54,5 +54,5 @@ background-color: coral;
 }
 
 .pagination-active:hover {
-  background-color: $pagination-button-color;
+  background-color: #9F9FFF;
 }
