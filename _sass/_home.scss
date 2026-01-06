@@ -84,7 +84,7 @@
 .thumbnail-container {
   max-width: 100%;
   overflow: hidden;
-  border-radius: 5px;
+  border-radius: 15px;
   margin-bottom: 25px;
   box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
 
@@ -110,16 +110,19 @@
 }
 
 .pagination-button {
-  color: $light-gray-color;
+  color: #225FC5;
   border: 1px solid $pagination-button-color;
-  padding: 15px 45px;
+  padding: 10px 35px;
   display: inline-block;
   font-size: 16px;
   font-weight: bold;
+  border-radius: 4px;
+  background-color: #ACCDFB;
 }
 
 .pagination-active {
-  color: $link-color;
+  color: #9E9E9E;
+  background-color: #E2E0E0;
 }
 
 .pagination-active:hover {
