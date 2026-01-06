@@ -53,15 +53,26 @@
 }
 
 .pagination-active {
-  color: #9E9E9E;
-  background-color:  #E2E0E0;
-  transition: all 2s ease-out;
+  
+            
+                    background-color: rgb(249, 251, 250);
+                    border: 1px solid rgb(137, 151, 155);
+                    box-shadow: rgb(6 22 33 / 30%) 0px 1px 2px;
+                    color: rgb(61, 79, 88);
+                    font-size: 14px;
+                    font-weight: 400;
+                    height: 36px;
+                    transition: all 150ms ease-in-out 0s;
+                    
+                
   
 }
 
 .pagination-active:hover {
-  color: #9E9E9E;
-  background-color:  #E2E0E0;
-  transition: all 2s ease-out;
+  color: rgb(61, 79, 88);
+                        background-color: rgb(255, 255, 255);
+                        border: 1px solid rgb(93, 108, 116);
+                        box-shadow: rgb(0 0 0 / 30%) 0px 4px 4px, rgb(231 238 236) 0px 0px 0px 3px;
+                    }
   
 }
