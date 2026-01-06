@@ -1,8 +1,7 @@
 /*
   Posts
 */
----
----
+
 .posts-container {
   margin-bottom: 5rem;
   padding: 0px;
@@ -50,18 +49,14 @@
   background-color: #0070f3;
   color: #ffffff;
   box-shadow: 0 4px 14px 0 rgb(0 118 255 / 39%);
-  transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
   
 }
 
 .pagination-active {
-  
     background-color: #ffffff;
-color: #696969;
-box-shadow: 0 4px 14px 0 rgb(0 0 0 / 10%);
-transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+     color: #696969;
+     box-shadow: 0 4px 14px 0 rgb(0 0 0 / 10%);
                     
-                
   
 }
 
