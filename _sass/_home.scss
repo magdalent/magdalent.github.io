@@ -1,6 +1,7 @@
+
 /*
   Posts
-
+*/
 
 .posts-container {
   margin-bottom: 5rem;
@@ -10,81 +11,12 @@
 
 /*
   Thumbnail
-
+*/
 
 .thumbnail-container {
   max-width: 100%;
   overflow: hidden;
   border-radius: 5px;
-  margin-bottom: 25px;
-  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
-  
-}
-
-.thumbnail-container img{
-  margin-top: -11.5%;
-  margin-bottom: -11.5%;
-}
-
-/*
-  Pagination
-
-
-.pagination {
-  overflow: hidden;
-  font-family: "Quattrocento Sans", sans-serif;
-  text-align: center;
-}
-
-.pagination a {
-  text-decoration: none;
-}
-
-.pagination-button {
-  border: 1px solid #225FC5;
-  padding: 10px 40px;
-  display: inline-block;
-  font-size: 16px;
-  font-weight: bold;
-  background-color: #0070f3;
-  color: #ffffff;
-  box-shadow: 0 4px 14px 0 rgb(0 118 255 / 39%);
-  
-}
-
-.pagination-active {
-    background-color: #ffffff;
-     color: #696969;
-     box-shadow: 0 4px 14px 0 rgb(0 0 0 / 10%);
-                    
-  
-}
-
-.pagination-active:hover {
-  background-color: rgba(0, 118, 255, 0.9);
-  box-shadow: 0 6px 20px rgb(0 118 255 / 23%);
-  
-}
-
-*/
-/*
-  Posts
-*/
-
-.posts-container {
-  margin-bottom: 5rem;
-  padding: 0px;
-  list-style: none;
-}
-
-/*
-  Thumbnail
-*/
-
-.thumbnail-container {
-  max-width: 100%;
-  overflow: hidden;
-  border-radius: 15px;
   margin-bottom: 25px;
   box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
 
@@ -118,6 +50,8 @@
   font-weight: bold;
   border-radius: 4px;
   background-color: #ACCDFB;
+  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+
 }
 
 .pagination-active {
