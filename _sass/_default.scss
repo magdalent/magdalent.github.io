@@ -101,6 +101,8 @@
 
 .footer a:hover {
   color: $dark-gray-color;
+  transition: color 2s ease-out;
+
 }
 
 .footer-description {
