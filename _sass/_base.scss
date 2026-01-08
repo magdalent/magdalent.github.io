@@ -41,6 +41,8 @@ a {
 a:hover {
   color: $link-color;
   border-bottom: none;
+   transition: color 2s ease-out;
+
 }
 
 img {
