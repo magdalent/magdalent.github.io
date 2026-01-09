@@ -6,14 +6,20 @@ permalink: /resume
 
 ## Education
 
-### University of New Brunswick (January 2026 - )
+### University of New Brunswick (September 2026 - )
 
 * BScE Geomatics Engineering
 
-### University of Victoria (December 2025)
+### University of Victoria 
 
 * [BSc Geography and Computer Science (Geomatics)](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/geography-and-computer-science.php)
+---
+## Skills
 
+* `Tools`: ArcGIS Pro, ArcGIS Online, QGIS, Google Earth Engine, Figma, Adobe CC, CAD
+
+* `Programming Languages`: R, CSS/SCSS, SQL, HTML, JavaScript, Java, Python, C
+  
 ---
 ## Previous Experience
 ### **Coordinator, Community Mapping (GIS) @ Canadian Red Cross**
