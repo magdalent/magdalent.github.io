@@ -6,11 +6,13 @@ permalink: /resume
 
 ## Education
 
-### University of New Brunswick (September 2026 - )
+### University of New Brunswick 
+* `September 2026 - )`
 
 * BScE Geomatics Engineering
 
 ### University of Victoria 
+* `2025`
 
 * [BSc Geography and Computer Science (Geomatics)](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/geography-and-computer-science.php)
 
@@ -18,9 +20,17 @@ permalink: /resume
 
 ## Skills
 
-* Tools: `ArcGIS Pro, ArcGIS Online, QGIS, Google Earth Engine, Figma, Adobe CC, CAD`
+### Tools
+`ArcGIS Pro`
+`ArcGIS Online`
+`QGIS` 
+`Google Earth Engine`
+`Figma` 
+`Adobe CC`
+`CAD`
 
-* Programming Languages: `R, CSS/SCSS, SQL, HTML, JavaScript, Java, Python, C`
+### Programming Languages
+`R` `CSS/SCSS` `SQL` `HTML` `JavaScript` `Java` `Python` `C`
   
 ---
 
