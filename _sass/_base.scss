@@ -6,7 +6,9 @@ body {
   font-family: $serif-font-family;
   font-size: 18px;
   color: $body-color;
-  background-color: #FAF7F0;
+ // background-color: #FAF7F0;
+    background-color: white;
+
   line-height: 1.75rem;
 }
 
@@ -21,7 +23,7 @@ body {
 }
 
 h1{
-  font-size: 1.8rem;
+  font-size: 1.5rem;
 }
 
 h1 a {
