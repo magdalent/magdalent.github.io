@@ -38,12 +38,13 @@
 .header-title a {
   font-size: 2rem;
   text-decoration: none;
-  color: $body-color;
+  //color: $body-color;
+  color: #006BFF;
 }
 
 .header-subtitle {
   //color: $light-gray-color;
-  color: #ACCDFB;
+  color: #5BA0FF;
 }
 
 /*
@@ -61,7 +62,7 @@
 
 .menu-content a {
   //color: $light-gray-color;
-  color: #ACCDFB;
+  color: #5BA0FF;
   font-size: 1rem;
   padding-right: 10px;
 }
