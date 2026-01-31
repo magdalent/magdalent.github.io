@@ -47,7 +47,7 @@
   //color: $light-gray-color;
   color: #807e7e;
   font-size: 1.8rem;
-  animation: float 2s ease-in-out infinite;
+  animation: floats 2s ease-in-out infinite;
 
 }
 
@@ -121,8 +121,14 @@
   font-size:0.8rem;
 }
 
-@keyframes float {
-  0%   { transform: translateY(0); }
-  50%  { transform: translateY(-20px); }
-  100% { transform: translateY(0); }
+@keyframes floats {
+from {
+    translate: 150vw 0;
+    scale: 200% 1;
+  }
+
+  to {
+    translate: 0 0;
+    scale: 100% 1;
+  }
 }
