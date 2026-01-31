@@ -48,6 +48,8 @@
   color: #807e7e;
   font-size: 1.8rem;
   animation: floats 2s ease-in-out infinite;
+   display: inline-block;
+
 
 }
 
@@ -122,13 +124,10 @@
 }
 
 @keyframes floats {
-from {
-    translate: 150vw 0;
-    scale: 200% 1;
+ from {
+    transform: translateX(150vw) scaleX(2);
   }
-
   to {
-    translate: 0 0;
-    scale: 100% 1;
+    transform: translateX(0) scaleX(1);
   }
 }
