@@ -125,9 +125,9 @@
 
 @keyframes floats {
  from {
-    transform: translateX(150vw) scaleX(2);
+    transform: translateX(150vw);
   }
   to {
-    transform: translateX(0) scaleX(1);
+    transform: translateX(0);
   }
 }
