@@ -47,7 +47,7 @@
   //color: $light-gray-color;
   color: #807e7e;
   font-size: 1.8rem;
-  animation: floats 2s ease-in forwards;
+  animation: floats 3s ease-in forwards;
    display: inline-block;
 
 
@@ -126,10 +126,12 @@
 @keyframes floats {
  from {
     opacity: 0;
-    color: #807e7e;
+    color: #e789fa;
   }
   to {
     opacity: 1;
-    color: #ACCDFB; 
+      color: $light-gray-color;
   }
 }
+
+
