@@ -42,8 +42,8 @@
 }
 
 .pagination-button {
-  color: #225FC5;
-  border: 1px solid $pagination-button-color;
+  color: white;
+  border: none;
   padding: 10px 25px;
   display: inline-block;
   font-size: 14px;
@@ -55,11 +55,13 @@
 }
 
 .pagination-active {
-  color: #9E9E9E;
+  color: white;
   background-color: #E2E0E0;
- transition: background-color 1s ease-out;
+  transition: background-color 1s ease-out;
+  border:none;
 }
 
 .pagination-active:hover {
-  background-color: #d9655d;
+   background-color: #ACCDFB;
+
 }
