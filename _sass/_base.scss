@@ -6,10 +6,11 @@ body {
   font-family: $serif-font-family;
   font-size: 18px;
   color: $body-color;
- // background-color: #FAF7F0;
-    background-color: white;
-
   line-height: 1.75rem;
+  background-image: repeating-conic-gradient(#e2e2e2 0% 25%, #ffffff 0% 50%);
+  background-position: 0 0, 32px 32px;
+  background-size: 64px 64px;
+  background-color: #ffffff;
 }
 
 @media (max-width: $elements-responsive-width) {
