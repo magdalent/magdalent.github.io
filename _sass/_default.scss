@@ -41,7 +41,6 @@
   text-decoration: none;
   //color: $body-color;
   color: #807e7e;
-  animation: floats 3s ease-in forwards;
 
 }
 
@@ -125,15 +124,5 @@
   font-size:0.8rem;
 }
 
-@keyframes floats {
- from {
-    opacity: 0;
-    color: #e789fa;
-  }
-  to {
-    opacity: 1;
-      color: $light-gray-color;
-  }
-}
 
 
