@@ -7,10 +7,8 @@ body {
   font-size: 18px;
   color: $body-color;
   line-height: 1.75rem;
-  background-image: repeating-conic-gradient(#e2e2e2 0% 25%, #ffffff 0% 50%);
-  background-position: 0 0, 32px 32px;
-  background-size: 64px 64px;
-  background-color: #ffffff;
+ background-image:  repeating-radial-gradient(circle at 0 0, transparent 0, #ffffff 32px), repeating-linear-gradient(#f6f6f6, #f6f6f6);
+background-color: #ffffff;
 }
 
 @media (max-width: $elements-responsive-width) {
