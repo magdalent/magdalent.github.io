@@ -7,18 +7,16 @@ body {
   font-size: 18px;
   color: $body-color;
   line-height: 1.75rem;
-  background: linear-gradient(0deg, #ffffff, #5499c1, #f992f5);
-    background-size: 600% 600%;
-
-    animation: AnimationName 7s ease infinite;
+  background: linear-gradient(270deg, #ffffff, #b8d5ff, #ffb9b9);
+  background-size: 600% 600%;
+  animation: AnimationName 19s ease infinite;
 }
 
 @keyframes AnimationName {
-    0%{background-position:38% 0%}
-    50%{background-position:63% 100%}
-    100%{background-position:38% 0%}
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
 }
-
 @media (max-width: $elements-responsive-width) {
   body {
     font-size: 14px;
