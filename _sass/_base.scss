@@ -7,8 +7,10 @@ body {
   font-size: 18px;
   color: $body-color;
   line-height: 1.75rem;
-    background: linear-gradient(60deg, #ffffff, #dae9ff, #f9fdbf);
+    
+     background: linear-gradient(60deg, #ffffff, #ffd4d4, #ffffff);
     background-size: 600% 600%;
+
 
     animation: AnimationName 9s ease infinite;
 }
