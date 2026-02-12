@@ -7,7 +7,8 @@ body {
   font-size: 18px;
   color: $body-color;
   line-height: 1.75rem;
- background-image:  repeating-radial-gradient(circle at 0 0, transparent 0, #ffffff 32px), repeating-linear-gradient(#f6f6f6, #f6f6f6);
+ background-image: linear-gradient(#f7f7f7 2px, transparent 2px), linear-gradient(to right, #f7f7f7 2px, transparent 2px);
+background-size: 32px 32px;
 background-color: #ffffff;
 }
 
