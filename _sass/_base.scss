@@ -7,9 +7,9 @@ body {
   font-size: 18px;
   color: $body-color;
   line-height: 1.75rem;
-  background: linear-gradient(270deg, #ffffff, #b8d5ff, #ffb9b9);
+  background: linear-gradient(270deg, #ffffff, #dae9ff, #ffc3c3);
   background-size: 600% 600%;
-  animation: AnimationName 19s ease infinite;
+  animation: AnimationName 14s ease infinite;
 }
 
 @keyframes AnimationName {
@@ -17,6 +17,7 @@ body {
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
 }
+
 @media (max-width: $elements-responsive-width) {
   body {
     font-size: 14px;
