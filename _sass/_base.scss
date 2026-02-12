@@ -8,17 +8,12 @@ body {
   color: $body-color;
   line-height: 1.75rem;
     
-  background: linear-gradient(177deg, #ffffff, #eeefff, #f9dfdf, #fcfdf5);
-    background-size: 800% 800%;
+   background: linear-gradient(270deg, #ffffff, #e1e6fd, #ffffff);
+    background-size: 600% 600%;
 
-    animation: AnimationName 22s ease infinite;
 }
 
-@keyframes AnimationName {
-    0%{background-position:0% 36%}
-    50%{background-position:100% 65%}
-    100%{background-position:0% 36%}
-}
+
 
 @media (max-width: $elements-responsive-width) {
   body {
