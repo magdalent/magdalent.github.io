@@ -8,11 +8,9 @@ body {
   color: $body-color;
   line-height: 1.75rem;
     
-     background: linear-gradient(60deg, #ffffff, #ffd4d4, #ffffff);
-    background-size: 600% 600%;
-
-
-    animation: AnimationName 9s ease infinite;
+  background: linear-gradient(60deg, #ffffff, #e9e9ff, #ffffff);
+  background-size: 600% 600%;
+  animation: AnimationName 4s ease infinite;
 }
 
 @keyframes AnimationName {
