@@ -18,7 +18,7 @@
   overflow: hidden;
   border-radius: 5px;
   margin-bottom: 25px;
-  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  box-shadow: 5px 5px 8px -2px #000000;
 
 }
 
@@ -50,13 +50,13 @@
   font-weight: bold;
   border-radius: 5px;
   background-color: #ACCDFB;
-  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  box-shadow: 5px 5px 8px -2px #000000;
 
 }
 
 .pagination-active {
   color: white;
-  background-color: #E2E0E0;
+  background-color: #c4c4c4;
   transition: background-color 1s ease-out;
   border:none;
 }
