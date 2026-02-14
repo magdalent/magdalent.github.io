@@ -39,7 +39,6 @@
 .header-title a {
   font-size: 2.2rem;
   text-decoration: none;
-  //color: $body-color;
   color: #EDEADE;
 
 }
@@ -98,19 +97,19 @@
 */
 
 .footer {
-  color: $light-gray-color;
+  color: #EDEADE;
   text-align: center;
   margin: 2rem;
 }
 
 .footer a {
-  color: $light-gray-color;
+  color: #EDEADE;
   padding: 10px;
   text-decoration: none;
 }
 
 .footer a:hover {
-  color: $dark-gray-color;
+  color: #B7BDF7;
   transition: color 2s ease-out;
 
 }
@@ -119,7 +118,7 @@
   display: block;
   margin-top:3px;
   margin-bottom: 1rem;
-  color: $light-gray-color;
+  color: #EDEADE;
   font-family: $sans-serif-font-family;
   font-size:0.8rem;
 }
