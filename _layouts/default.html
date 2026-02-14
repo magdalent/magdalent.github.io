@@ -1,6 +1,27 @@
 <!doctype html>
 <html>
   {% include head.html %}
+
+  <script>
+  const toggle = document.getElementById("theme-toggle");
+
+  if (localStorage.getItem("theme") === "dark") {
+    document.documentElement.setAttribute("data-theme", "dark");
+  }
+
+  toggle?.addEventListener("click", () => {
+    const currentTheme = document.documentElement.getAttribute("data-theme");
+
+    if (currentTheme === "dark") {
+      document.documentElement.removeAttribute("data-theme");
+      localStorage.setItem("theme", "light");
+    } else {
+      document.documentElement.setAttribute("data-theme", "dark");
+      localStorage.setItem("theme", "dark");
+    }
+  });
+</script>
+
   <body>
     <div class="container">
       {% include header.html %}
@@ -9,34 +30,6 @@
       </div>
       {% include footer.html %}
     </div>
-
-    <!-- Dark Mode Toggle Button -->
-    <button id="theme-toggle" style="
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      padding: 10px 14px;
-      border-radius: 8px;
-      border: none;
-      cursor: pointer;
-    ">
-      🌙
-    </button>
-
-    <!-- Dark Mode Script -->
-    <script>
-      const toggle = document.getElementById("theme-toggle");
-
-      toggle.addEventListener("click", () => {
-        const currentTheme = document.documentElement.getAttribute("data-theme");
-
-        if (currentTheme === "dark") {
-          document.documentElement.removeAttribute("data-theme");
-        } else {
-          document.documentElement.setAttribute("data-theme", "dark");
-        }
-      });
-    </script>
 
   </body>
 </html>
