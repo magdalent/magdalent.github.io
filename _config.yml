@@ -11,7 +11,7 @@
 #   sort_reverse: true
 
 # jekyll-paginate configuration
-paginate:            11
+paginate:            12
 
 # Build settings
 markdown:            kramdown
@@ -27,3 +27,4 @@ hi: true
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+theme_mode: auto
