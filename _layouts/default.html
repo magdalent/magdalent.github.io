@@ -9,5 +9,34 @@
       </div>
       {% include footer.html %}
     </div>
+
+    <!-- Dark Mode Toggle Button -->
+    <button id="theme-toggle" style="
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      padding: 10px 14px;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+    ">
+      🌙
+    </button>
+
+    <!-- Dark Mode Script -->
+    <script>
+      const toggle = document.getElementById("theme-toggle");
+
+      toggle.addEventListener("click", () => {
+        const currentTheme = document.documentElement.getAttribute("data-theme");
+
+        if (currentTheme === "dark") {
+          document.documentElement.removeAttribute("data-theme");
+        } else {
+          document.documentElement.setAttribute("data-theme", "dark");
+        }
+      });
+    </script>
+
   </body>
 </html>
