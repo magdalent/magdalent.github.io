@@ -11,13 +11,9 @@ code {
   font-size: .8rem;
   background-color: #d7d9d7;
   border-radius: 3px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-
-
-  background: rgba(255,255,255,0.4);
-  -webkit-backdrop-filter: blur(6px);
-  backdrop-filter: blur(6px);
-  border: 1px solid rgba(255,255,255,0.35);
+  background-color: #D09CFA;
+  color: #7C4FA0;
+  box-shadow: 5px 5px 8px -2px #000000;
 }
 pre {
   display: block;
