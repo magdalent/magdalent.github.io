@@ -8,12 +8,10 @@ permalink: /resume
 
 ### University of New Brunswick 
 * `September 2026 - )`
-
 * BScE Geomatics Engineering
 
 ### University of Victoria 
 * `January 2026`
-
 * [BSc Geography and Computer Science (Geomatics)](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/geography-and-computer-science.php)
 
 ---
@@ -37,7 +35,7 @@ permalink: /resume
 ##  Experience
 ### **Coordinator, Community Mapping (GIS) @ Canadian Red Cross**
 
-**Victoria, BC | January 2025 – August 2025**
+`Victoria, BC | January 2025 – August 2025`
 
 * Designed and delivered GIS training materials for diverse audiences using **Figma**.
 * Supported GIS response efforts during the **2025 Alberta and Manitoba wildfires**, producing detailed maps and community profiles in **ArcGIS Pro** to enhance situational awareness for staff and volunteers.
@@ -47,7 +45,7 @@ permalink: /resume
 
 ### **Historic Computing Assistant @ University of Victoria Libraries**
 
-**Victoria, BC | October 2024 – January 2025**
+`Victoria, BC | October 2024 – January 2025`
 
 * Documented historic computers for archival preservation and research use.
 * Created an interactive tutorial for the **Microstar graphics program** using **HTML, JavaScript, and CSS**.
@@ -55,7 +53,7 @@ permalink: /resume
 
 ### **GIS Research Assistant @ (Surreal) Simulating Resilient Landscapes Lab, University of Victoria**
 
-**Victoria, BC | November 2023 – January 2024**
+`Victoria , BC | November 2023 – January 2024`
 
 * Collaborated with the Surreal Lab to identify and flag errors in **LiDAR datasets** for a **Capital Regional District** project.
 * Performed spatial data quality control and analysis using **ArcGIS Pro**.
@@ -63,7 +61,7 @@ permalink: /resume
 
 ### **Assistant GIS Analyst (Co-op) @ Fisheries and Oceans Canada**
 
-**Sidney, BC | January 2023 – August 2023**
+`Sidney, BC | January 2023 – August 2023`
 
 
 * Contributed to the **Salish Sea Initiative Interactive Map**, supporting Indigenous Nations’ access to environmental and spatial data.
@@ -73,7 +71,7 @@ permalink: /resume
 
 ### **Analyst (Co-op) @ British Columbia Environmental Assessment Office**
 
-**Sidney, BC | September 2021 – January 2022**
+`Sidney, BC | September 2021 – January 2022`
 
 * Supported the Oil and Gas team in correspondence with Indigenous Nations and industry partners.
 * Maintained and updated the Environmental Assessment Office’s **EPIC** website.
