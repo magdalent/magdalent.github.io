@@ -19,16 +19,10 @@ permalink: /resume
 ## Skills
 
 ### Tools
-`ArcGIS Pro`
-`ArcGIS Online`
-`QGIS` 
-`Google Earth Engine`
-`Figma` 
-`Adobe CC`
-`CAD`
+* ArcGIS Pro, ArcGIS Online, QGIS, Google Earth Engine, Figma, Adobe CC, CAD
 
 ### Programming Languages
-`R` `CSS/SCSS` `SQL` `HTML` `JavaScript` `Java` `Python` `C`
+* R,  CSS/SCSS, SQL, HTML, JavaScript, Java, Python, C
   
 ---
 
