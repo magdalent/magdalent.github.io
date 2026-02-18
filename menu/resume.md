@@ -1,18 +1,16 @@
 ---
 layout: page
-title: Resume 𓅰 𓅬 𓅭 𓅮 𓅯
+title: Resume 𓅰 𓅬 𓅭 
 permalink: /resume
 ---
 
 ## Education
 
-### University of New Brunswick 
+#### University of New Brunswick, BScE Geomatics Engineering
 * `September 2026 - )`
-* BScE Geomatics Engineering
 
-### University of Victoria 
+#### University of Victoria, [BSc Geography and Computer Science (Geomatics)](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/geography-and-computer-science.php)
 * `January 2026`
-* [BSc Geography and Computer Science (Geomatics)](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/geography-and-computer-science.php)
 
 ---
 
