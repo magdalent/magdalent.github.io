@@ -4,13 +4,13 @@ title: "Christmas Hill Sanctuary App"
 author: "Magdalen Thot"
 categories: journal
 tags: [conservation,gis,storymaps]
-image: Projects_IMG4.png
+image: swanlake.jpeg
 ---
-A story map tutorial using iNaturalist and field-collected data to map species observations and unwanted trails at Christmas Hill Sanctuary.
-
-### Project Link
-* [ArcGIS StoryMap](https://storymaps.arcgis.com/stories/40ebd9eb43a84cd2bc4c7517e5409ab0)
+Created a StoryMap tutorial using iNaturalist and field-collected data to map species observations and unwanted trails at Christmas Hill Sanctuary and Swan Lake Conservatory in Victoria, BC, identifying at-risk species and unplanned trails.
 
 ### Tools
 * `ArcGIS Desktop`
 * `ArcGIS Online`
+* `iNaturalist`
+* `Feild Work`
+
