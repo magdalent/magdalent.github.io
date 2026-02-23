@@ -10,7 +10,7 @@ permalink: /resume
 * `September 2026 - )`
 
 #### University of Victoria, [BSc Geography and Computer Science (Geomatics)](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/geography-and-computer-science.php)
-* `January 2026`
+* `2026`
 
 ---
 
