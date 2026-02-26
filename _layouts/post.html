@@ -5,12 +5,23 @@ layout: default
 <h1>
   {{ page.title }}
 </h1>
+
 {% if page.image %}
-  <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+  <img src="{{ site.github.url }}/assets/img/{{ page.image }}" class="featured-image">
 {% endif %}
+
+{% if page.images %}
+  <div class="post-gallery">
+    {% for img in page.images %}
+      <img src="{{ site.github.url }}/assets/img/{{ img }}" class="gallery-image">
+    {% endfor %}
+  </div>
+{% endif %}
+
 <article>
   {{ content }}
 </article>
+
 {% if site.hide_post_date != true %}
   {% include post-date.html %}
 {% endif %}
