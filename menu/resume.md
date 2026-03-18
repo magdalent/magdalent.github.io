@@ -6,9 +6,6 @@ permalink: /resume
 
 ## Education
 
-#### University of New Brunswick, BScE Geomatics Engineering
-* `September 2026 - )`
-
 #### University of Victoria, [BSc Geography and Computer Science (Geomatics)](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/geography-and-computer-science.php)
 * `2026`
 
